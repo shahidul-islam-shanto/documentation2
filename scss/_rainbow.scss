@@ -3,8 +3,14 @@ Rainbow Styles
 -------------------------*/
 
 .navbar-brand {
+  display: flex;
+  align-items: center;
   img {
     width: 70px;
+  }
+  .icon-text{
+    font-family: 700;
+    padding-left: 0.2rem;
   }
 }
 

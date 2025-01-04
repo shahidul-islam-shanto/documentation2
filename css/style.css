@@ -9705,8 +9705,16 @@ blockquote .author {
 /*-----------------------
 Rainbow Styles  
 -------------------------*/
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
 .navbar-brand img {
   width: 70px;
+}
+.navbar-brand .icon-text {
+  font-family: 700;
+  padding-left: 0.2rem;
 }
 
 .menu > .nav-item {
