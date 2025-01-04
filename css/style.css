@@ -3649,7 +3649,7 @@ button:focus {
   margin-top: 1rem;
 }
 .documentation_body .shortcode_title .colCss {
-  color: #000080;
+  color: #99860C;
 }
 .documentation_body .shortcode_title .color-temp {
   padding: 2rem 0;
@@ -3658,7 +3658,7 @@ button:focus {
 .documentation_body .shortcode_title .color-temp li a {
   font-size: 20px;
   font-weight: 700;
-  color: #000080;
+  color: #99860C;
 }
 .documentation_body .shortcode_title .phosphorIcon {
   margin-top: 2rem;
@@ -3678,12 +3678,12 @@ button:focus {
 .documentation_body .shortcode_title .list-popup li a {
   font-size: 20px;
   font-weight: 700;
-  color: #000080;
+  color: #99860C;
 }
 .documentation_body .shortcode_title .regard p {
   font-size: 20px;
   font-weight: 700;
-  color: #000080;
+  color: #99860C;
 }
 .documentation_body .shortcode_title .tempStru {
   margin: 1rem 0;
@@ -3695,7 +3695,7 @@ button:focus {
 .documentation_body .shortcode_title .tempStru li a {
   font-size: 20px;
   font-weight: 700;
-  color: #000080;
+  color: #99860C;
 }
 .documentation_body .shortcode_title .changCont {
   margin: 1rem 0;
@@ -3707,7 +3707,13 @@ button:focus {
 .documentation_body .shortcode_title .changCont li a {
   font-size: 20px;
   font-weight: 700;
-  color: #000080;
+  color: #99860C;
+}
+.documentation_body .shortcode_title .linkx {
+  color: #99860C;
+}
+.documentation_body .shortcode_title .link-pho {
+  color: #99860C;
 }
 
 .doc_documentation_area .shortcode_title {
@@ -9680,7 +9686,7 @@ blockquote .author {
   color: #a4a8b4;
 }
 .simple_footer p a {
-  color: #1a4dbe;
+  color: #99860C;
 }
 .simple_footer .f_social_icon {
   margin-bottom: 0;
